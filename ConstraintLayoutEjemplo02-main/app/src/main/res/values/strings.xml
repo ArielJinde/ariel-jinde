@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ConstraintLayoutEjemplo02</string>
+
+    <string name="nombre">Kristen Peterson</string>
+    <string name="ocupacion">UI/UX Designer | Front End Developer</string>
+    <string name="ciudad">San Francisco, CA</string>
+    <string name="num_followers">1845</string>
+    <string name="num_following">698</string>
+    <string name="following">Siguiendo</string>
+    <string name="posts">Entradas</string>
+    <string name="num_posts">4219</string>
+    <string name="followers">Seguidores</string>
+    <string name="titulo">Acerca de Kristen</string>
+    <string name="cuerpo">
+    Lorem ipsum, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    </string>
+    <string name="background">background</string>
+</resources>
